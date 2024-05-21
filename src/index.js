@@ -1,4 +1,4 @@
-import $ from "jquery";
+import $ from 'jquery';
 import { getButton } from './button/button';
 import image from './assets/react-logo.jpeg';
 
